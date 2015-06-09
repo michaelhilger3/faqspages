@@ -1,0 +1,4 @@
+Here is the template for the FAQ page.  
+Once we get the questions I will fill it in correctly.
+Is there a tag for vertically centering text, if so what is it?
+Ive also tried locking/fixing the scroll bars but with no luck.
